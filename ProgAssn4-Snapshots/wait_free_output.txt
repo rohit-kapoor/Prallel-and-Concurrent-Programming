@@ -1,0 +1,377 @@
+Wait free snapshot output
+Thread: 1 writes a value 15 at time 1649069660635626812
+Thread: 0 writes a value 15 at time 1649069660635626637
+Thread: 3 writes a value 15 at time 1649069660635680061
+Thread: 2 writes a value 15 at time 1649069660635672778
+Thread: 4 writes a value 15 at time 1649069660635700417
+Thread: 5 writes a value 15 at time 1649069660635753184
+Thread: 3 writes a value 33 at time 1649069660635823172
+Thread: 0 writes a value 48 at time 1649069660635832675
+Thread: 2 writes a value 15 at time 1649069660635870924
+Thread: 4 writes a value 33 at time 1649069660635870989
+Thread: 1 writes a value 99 at time 1649069660635869407
+Thread: 7 writes a value 15 at time 1649069660635875414
+Thread: 8 writes a value 14 at time 1649069660635881246
+Thread: 3 writes a value 48 at time 1649069660635947146
+Thread: 0 writes a value 99 at time 1649069660635957344
+Thread: 5 writes a value 33 at time 1649069660635950193
+Thread: 2 writes a value 33 at time 1649069660636012276
+Thread: 6 writes a value 15 at time 1649069660635967456
+Thread: 9 writes a value 15 at time 1649069660635980071
+Thread: 10 writes a value 15 at time 1649069660635996870
+Thread: 4 writes a value 48 at time 1649069660636024104
+Thread: 1 writes a value 32 at time 1649069660636043832
+Thread: 7 writes a value 50 at time 1649069660636049263
+Thread: 8 writes a value 97 at time 1649069660636060348
+Thread: 3 writes a value 37 at time 1649069660636061905
+Thread: 5 writes a value 33 at time 1649069660636107024
+Thread: 0 writes a value 32 at time 1649069660636114394
+Thread: 9 writes a value 48 at time 1649069660636127008
+Thread: 2 writes a value 50 at time 1649069660636130122
+Thread: 11 writes a value 15 at time 1649069660636138556
+Thread: 10 writes a value 97 at time 1649069660636144548
+Thread: 4 writes a value 37 at time 1649069660636146511
+Thread: 1 writes a value 58 at time 1649069660636172057
+Thread: 6 writes a value 90 at time 1649069660636197991
+Thread: 5 writes a value 47 at time 1649069660636211020
+Thread: 8 writes a value 2 at time 1649069660636209726
+Thread: 7 writes a value 17 at time 1649069660636205552
+Thread: 9 writes a value 18 at time 1649069660636225993
+Thread: 2 writes a value 99 at time 1649069660636270190
+Thread: 0 writes a value 86 at time 1649069660636275581
+Thread: 11 writes a value 83 at time 1649069660636284704
+Thread: 5 writes a value 67 at time 1649069660636313701
+Thread: 3 writes a value 80 at time 1649069660636323161
+Thread: 10 writes a value 2 at time 1649069660636327001
+snapshot corresponding to thread 0
+Thread: 4 writes a value 1 at time 1649069660636333615
+Thread: 6 writes a value 1 at time 1649069660636337801
+ l1 : 0 l2 : 0 l3 : 0 l4 : 0 l5 : 33 l6 : 0 l7 : 0 l8 : 48 l9 : 50 l10 : 0 l11 : 0 l12 : 0 l13 : 48 l14 : 15 l15 : 15 l16 : 37 l17 : 0 l18 : 0 l19 : 97 l20 : 32 which finishes at 1649069660636282382
+Thread: 9 writes a value 51 at time 1649069660636352980
+Thread: 1 writes a value 53 at time 1649069660636372294
+Thread: 7 writes a value 61 at time 1649069660636379910
+Thread: 8 writes a value 72 at time 1649069660636378193
+Thread: 0 writes a value 26 at time 1649069660636394496
+Thread: 11 writes a value 14 at time 1649069660636403940
+Thread: 2 writes a value 98 at time 1649069660636413226
+Thread: 5 writes a value 31 at time 1649069660636417586
+Thread: 9 writes a value 66 at time 1649069660636437522
+Thread: 10 writes a value 29 at time 1649069660636435939
+Thread: 4 writes a value 48 at time 1649069660636470214
+Thread: 0 writes a value 52 at time 1649069660636481626
+Thread: 7 writes a value 26 at time 1649069660636495281
+snapshot corresponding to thread 0
+ l1 : 31 l2 : 1 l3 : 0 l4 : 67 l5 : 33 l6 : 66 l7 : 72 l8 : 48 l9 : 14 l10 : 61 l11 : 29 l12 : 33 l13 : 26 l14 : 99 l15 : 15 l16 : 37 l17 : 1 l18 : 2 l19 : 48 l20 : 32 which finishes at 1649069660636475790
+Thread: 3 writes a value 9 at time 1649069660636509169
+Thread: 6 writes a value 33 at time 1649069660636524932
+Thread: 1 writes a value 6 at time 1649069660636537752
+Thread: 8 writes a value 90 at time 1649069660636542518
+Thread: 5 writes a value 11 at time 1649069660636559437
+Thread: 11 writes a value 19 at time 1649069660636567562
+Thread: 2 writes a value 7 at time 1649069660636567346
+Thread: 10 writes a value 23 at time 1649069660636574685
+Thread: 0 writes a value 39 at time 1649069660636580004
+Thread: 9 writes a value 73 at time 1649069660636580003
+Thread: 4 writes a value 29 at time 1649069660636597390
+Thread: 6 writes a value 55 at time 1649069660636634843
+Thread: 3 writes a value 76 at time 1649069660636642051
+snapshot corresponding to thread 0
+ l1 : 31 l2 : 55 l3 : 0 l4 : 6 l5 : 33 l6 : 66 l7 : 29 l8 : 23 l9 : 14 l10 : 19 l11 : 29 l12 : 39 l13 : 26 l14 : 90 l15 : 15 l16 : 37 l17 : 76 l18 : 88 l19 : 48 l20 : 32 which finishes at 1649069660636636452
+Thread: 5 writes a value 26 at time 1649069660636662326
+Thread: 7 writes a value 88 at time 1649069660636671842
+Thread: 1 writes a value 48 at time 1649069660636679405
+Thread: 11 writes a value 98 at time 1649069660636688093
+Thread: 8 writes a value 87 at time 1649069660636690360
+Thread: 9 writes a value 33 at time 1649069660636704290
+Thread: 10 writes a value 1 at time 1649069660636707900
+Thread: 4 writes a value 62 at time 1649069660636725413
+Thread: 2 writes a value 64 at time 1649069660636728020
+Thread: 3 writes a value 69 at time 1649069660636740464
+Thread: 6 writes a value 88 at time 1649069660636767310
+Thread: 0 writes a value 26 at time 1649069660636786321
+snapshot corresponding to thread 0
+Thread: 7 writes a value 33 at time 1649069660636803839
+Thread: 9 writes a value 16 at time 1649069660636815371
+Thread: 5 writes a value 50 at time 1649069660636817559
+ l1 : 17 l2 : 1 l3 : 0 l4 : 67 l5 : 33 l6 : 0 l7 : 72 l8 : 48 l9 : 2 l10 : 61 l11 : 47 l12 : 53 l13 : 51 l14 : 99 l15 : 15 l16 : 37 l17 : 1 l18 : 2 l19 : 97 l20 : 32 which finishes at 1649069660636785346
+Thread: 11 writes a value 75 at time 1649069660636831980
+Thread: 4 writes a value 34 at time 1649069660636849293
+Thread: 1 writes a value 75 at time 1649069660636843005
+Thread: 8 writes a value 22 at time 1649069660636854020
+Thread: 3 writes a value 6 at time 1649069660636851890
+Thread: 10 writes a value 60 at time 1649069660636862274
+Thread: 2 writes a value 39 at time 1649069660636906027
+Thread: 6 writes a value 99 at time 1649069660636910171
+Thread: 5 writes a value 84 at time 1649069660636959409
+Thread: 9 writes a value 92 at time 1649069660636963209
+Thread: 11 writes a value 6 at time 1649069660636960048
+Thread: 7 writes a value 7 at time 1649069660636963675
+Thread: 0 writes a value 95 at time 1649069660636966942
+Thread: 8 writes a value 0 at time 1649069660636989863
+snapshot corresponding to thread 0
+Thread: 4 writes a value 35 at time 1649069660637000779
+Thread: 10 writes a value 97 at time 1649069660637005157
+Thread: 3 writes a value 4 at time 1649069660637008300
+ l1 : 31 l2 : 75 l3 : 22 l4 : 6 l5 : 60 l6 : 66 l7 : 34 l8 : 69 l9 : 98 l10 : 19 l11 : 16 l12 : 39 l13 : 88 l14 : 1 l15 : 6 l16 : 33 l17 : 76 l18 : 50 l19 : 33 l20 : 32 which finishes at 1649069660636991444
+Thread: 1 writes a value 62 at time 1649069660637019281
+Thread: 2 writes a value 7 at time 1649069660637026661
+Thread: 6 writes a value 45 at time 1649069660637019584
+Thread: 5 writes a value 15 at time 1649069660637067900
+Thread: 7 writes a value 29 at time 1649069660637075053
+Thread: 11 writes a value 3 at time 1649069660637066355
+Thread: 0 writes a value 99 at time 1649069660637087570
+Thread: 9 writes a value 94 at time 1649069660637104373
+Thread: 4 writes a value 18 at time 1649069660637110101
+Thread: 8 writes a value 66 at time 1649069660637136909
+Thread: 6 writes a value 71 at time 1649069660637153268
+Thread: 3 writes a value 11 at time 1649069660637158145
+Thread: 2 writes a value 63 at time 1649069660637162143
+Thread: 1 writes a value 72 at time 1649069660637174902
+Thread: 5 writes a value 85 at time 1649069660637178213
+Thread: 10 writes a value 61 at time 1649069660637180241
+Thread: 9 writes a value 86 at time 1649069660637217991
+Thread: 0 writes a value 73 at time 1649069660637220721
+Thread: 4 writes a value 40 at time 1649069660637220998
+Thread: 8 writes a value 19 at time 1649069660637237456
+Thread: 3 writes a value 90 at time 1649069660637250988
+Thread: 11 writes a value 27 at time 1649069660637258300
+Thread: 1 writes a value 33 at time 1649069660637306658
+snapshot corresponding to thread 1
+Thread: 6 writes a value 97 at time 1649069660637313930
+ l1 : 71 l2 : 75 l3 : 15 l4 : 66 l5 : 6 l6 : 66 l7 : 3 l8 : 61 l9 : 98 l10 : 72 l11 : 11 l12 : 63 l13 : 88 l14 : 4 l15 : 29 l16 : 85 l17 : 39 l18 : 7 l19 : 84 l20 : 35 which finishes at 1649069660637279993
+Thread: 7 writes a value 36 at time 1649069660637320184
+Thread: 2 writes a value 2 at time 1649069660637317000
+Thread: 9 writes a value 60 at time 1649069660637327498
+Thread: 10 writes a value 43 at time 1649069660637326657
+Thread: 5 writes a value 94 at time 1649069660637330801
+Thread: 8 writes a value 67 at time 1649069660637342957
+Thread: 3 writes a value 59 at time 1649069660637360967
+Thread: 0 writes a value 0 at time 1649069660637366063
+Thread: 4 writes a value 26 at time 1649069660637410565
+Thread: 1 writes a value 68 at time 1649069660637427802
+Thread: 6 writes a value 50 at time 1649069660637457440
+Thread: 8 writes a value 66 at time 1649069660637474510
+Thread: 9 writes a value 76 at time 1649069660637477291
+Thread: 2 writes a value 13 at time 1649069660637480614
+Thread: 7 writes a value 3 at time 1649069660637480512
+Thread: 10 writes a value 87 at time 1649069660637484713
+Thread: 3 writes a value 66 at time 1649069660637489859
+snapshot corresponding to thread 1
+ l1 : 71 l2 : 75 l3 : 73 l4 : 27 l5 : 6 l6 : 66 l7 : 3 l8 : 36 l9 : 98 l10 : 97 l11 : 11 l12 : 33 l13 : 88 l14 : 40 l15 : 94 l16 : 85 l17 : 19 l18 : 43 l19 : 2 l20 : 35 which finishes at 1649069660637470623
+Thread: 11 writes a value 29 at time 1649069660637508943
+Thread: 0 writes a value 72 at time 1649069660637520658
+Thread: 6 writes a value 68 at time 1649069660637551980
+Thread: 5 writes a value 30 at time 1649069660637557268
+Thread: 1 writes a value 69 at time 1649069660637567968
+Thread: 9 writes a value 33 at time 1649069660637581562
+Thread: 4 writes a value 66 at time 1649069660637584729
+Thread: 8 writes a value 25 at time 1649069660637591992
+Thread: 10 writes a value 98 at time 1649069660637627361
+Thread: 7 writes a value 64 at time 1649069660637635401
+snapshot corresponding to thread 1
+ l1 : 30 l2 : 66 l3 : 73 l4 : 27 l5 : 29 l6 : 13 l7 : 3 l8 : 60 l9 : 26 l10 : 97 l11 : 72 l12 : 76 l13 : 66 l14 : 59 l15 : 94 l16 : 85 l17 : 19 l18 : 43 l19 : 2 l20 : 35 which finishes at 1649069660637626165
+Thread: 5 writes a value 41 at time 1649069660637649450
+Thread: 6 writes a value 6 at time 1649069660637664536
+Thread: 2 writes a value 46 at time 1649069660637663588
+Thread: 11 writes a value 47 at time 1649069660637696695
+Thread: 9 writes a value 10 at time 1649069660637711338
+Thread: 0 writes a value 90 at time 1649069660637708923
+Thread: 1 writes a value 65 at time 1649069660637708683
+Thread: 8 writes a value 73 at time 1649069660637719071
+Thread: 4 writes a value 0 at time 1649069660637730157
+Thread: 3 writes a value 35 at time 1649069660637737996
+Thread: 7 writes a value 44 at time 1649069660637780521
+Thread: 10 writes a value 22 at time 1649069660637792425
+snapshot corresponding to thread 1
+ l1 : 30 l2 : 66 l3 : 10 l4 : 27 l5 : 29 l6 : 13 l7 : 75 l8 : 60 l9 : 6 l10 : 35 l11 : 72 l12 : 90 l13 : 66 l14 : 65 l15 : 41 l16 : 85 l17 : 44 l18 : 43 l19 : 22 l20 : 63 which finishes at 1649069660637787933
+Thread: 6 writes a value 63 at time 1649069660637817373
+Thread: 0 writes a value 51 at time 1649069660637834280
+Thread: 11 writes a value 63 at time 1649069660637840990
+Thread: 9 writes a value 36 at time 1649069660637857803
+Thread: 5 writes a value 89 at time 1649069660637877012
+Thread: 8 writes a value 97 at time 1649069660637877016
+Thread: 1 writes a value 0 at time 1649069660637874463
+Thread: 4 writes a value 17 at time 1649069660637888430
+Thread: 3 writes a value 1 at time 1649069660637891054
+Thread: 7 writes a value 82 at time 1649069660637914758
+Thread: 6 writes a value 68 at time 1649069660637927841
+Thread: 2 writes a value 75 at time 1649069660637940234
+Thread: 11 writes a value 74 at time 1649069660637946614
+Thread: 9 writes a value 94 at time 1649069660637958731
+Thread: 10 writes a value 6 at time 1649069660637958616
+snapshot corresponding to thread 1
+Thread: 0 writes a value 73 at time 1649069660637965251
+ l1 : 30 l2 : 89 l3 : 10 l4 : 27 l5 : 0 l6 : 63 l7 : 75 l8 : 60 l9 : 6 l10 : 51 l11 : 72 l12 : 36 l13 : 82 l14 : 17 l15 : 41 l16 : 85 l17 : 44 l18 : 1 l19 : 22 l20 : 63 which finishes at 1649069660637945697
+Thread: 1 writes a value 49 at time 1649069660638002401
+Thread: 8 writes a value 47 at time 1649069660637999314
+Thread: 4 writes a value 52 at time 1649069660638007678
+Thread: 3 writes a value 42 at time 1649069660638011056
+Thread: 7 writes a value 59 at time 1649069660638033122
+Thread: 6 writes a value 24 at time 1649069660638039809
+Thread: 2 writes a value 49 at time 1649069660638082567
+Thread: 0 writes a value 67 at time 1649069660638086636
+Thread: 9 writes a value 56 at time 1649069660638086213
+Thread: 11 writes a value 3 at time 1649069660638086151
+Thread: 10 writes a value 18 at time 1649069660638086412
+Thread: 4 writes a value 35 at time 1649069660638106850
+Thread: 3 writes a value 55 at time 1649069660638117720
+Thread: 5 writes a value 77 at time 1649069660638124667
+Thread: 8 writes a value 93 at time 1649069660638124088
+snapshot corresponding to thread 2
+Thread: 1 writes a value 68 at time 1649069660638166335
+Thread: 7 writes a value 96 at time 1649069660638173437
+ l1 : 30 l2 : 59 l3 : 10 l4 : 27 l5 : 24 l6 : 63 l7 : 85 l8 : 60 l9 : 55 l10 : 93 l11 : 52 l12 : 49 l13 : 82 l14 : 96 l15 : 3 l16 : 56 l17 : 47 l18 : 1 l19 : 67 l20 : 18 which finishes at 1649069660638152101
+Thread: 6 writes a value 85 at time 1649069660638181924
+Thread: 2 writes a value 76 at time 1649069660638219403
+Thread: 0 writes a value 59 at time 1649069660638219378
+Thread: 9 writes a value 9 at time 1649069660638237893
+Thread: 4 writes a value 56 at time 1649069660638247179
+Thread: 10 writes a value 80 at time 1649069660638238145
+Thread: 1 writes a value 40 at time 1649069660638244752
+Thread: 3 writes a value 48 at time 1649069660638255167
+Thread: 11 writes a value 81 at time 1649069660638256713
+snapshot corresponding to thread 2
+ l1 : 30 l2 : 59 l3 : 10 l4 : 27 l5 : 24 l6 : 63 l7 : 75 l8 : 60 l9 : 73 l10 : 77 l11 : 52 l12 : 49 l13 : 82 l14 : 42 l15 : 3 l16 : 56 l17 : 47 l18 : 1 l19 : 67 l20 : 18 which finishes at 1649069660638282250
+Thread: 6 writes a value 13 at time 1649069660638293682
+Thread: 5 writes a value 72 at time 1649069660638302361
+Thread: 8 writes a value 28 at time 1649069660638309788
+Thread: 7 writes a value 49 at time 1649069660638314411
+Thread: 2 writes a value 6 at time 1649069660638337445
+Thread: 0 writes a value 0 at time 1649069660638334735
+Thread: 4 writes a value 23 at time 1649069660638375063
+Thread: 10 writes a value 53 at time 1649069660638381869
+Thread: 9 writes a value 67 at time 1649069660638397261
+Thread: 11 writes a value 61 at time 1649069660638397393
+Thread: 8 writes a value 47 at time 1649069660638408339
+Thread: 1 writes a value 40 at time 1649069660638409161
+snapshot corresponding to thread 2
+ l1 : 67 l2 : 6 l3 : 10 l4 : 0 l5 : 40 l6 : 47 l7 : 23 l8 : 72 l9 : 28 l10 : 53 l11 : 52 l12 : 48 l13 : 82 l14 : 96 l15 : 80 l16 : 56 l17 : 47 l18 : 40 l19 : 56 l20 : 68 which finishes at 1649069660638407779
+Thread: 7 writes a value 55 at time 1649069660638460099
+Thread: 6 writes a value 46 at time 1649069660638458164
+Thread: 4 writes a value 13 at time 1649069660638486920
+Thread: 0 writes a value 7 at time 1649069660638491029
+Thread: 3 writes a value 10 at time 1649069660638513771
+Thread: 10 writes a value 35 at time 1649069660638515324
+Thread: 5 writes a value 14 at time 1649069660638524229
+Thread: 9 writes a value 55 at time 1649069660638526849
+Thread: 1 writes a value 0 at time 1649069660638532910
+Thread: 2 writes a value 65 at time 1649069660638539927
+Thread: 11 writes a value 14 at time 1649069660638542656
+Thread: 8 writes a value 7 at time 1649069660638541971
+Thread: 6 writes a value 74 at time 1649069660638576697
+snapshot corresponding to thread 2
+Thread: 4 writes a value 68 at time 1649069660638587144
+ l1 : 67 l2 : 6 l3 : 14 l4 : 0 l5 : 40 l6 : 47 l7 : 7 l8 : 55 l9 : 10 l10 : 7 l11 : 52 l12 : 35 l13 : 82 l14 : 96 l15 : 13 l16 : 56 l17 : 46 l18 : 40 l19 : 56 l20 : 0 which finishes at 1649069660638552624
+Thread: 0 writes a value 35 at time 1649069660638610730
+Thread: 3 writes a value 64 at time 1649069660638623557
+Thread: 7 writes a value 8 at time 1649069660638666568
+Thread: 5 writes a value 59 at time 1649069660638673598
+Thread: 1 writes a value 55 at time 1649069660638670719
+Thread: 10 writes a value 86 at time 1649069660638678611
+Thread: 2 writes a value 95 at time 1649069660638681651
+Thread: 11 writes a value 3 at time 1649069660638689791
+Thread: 8 writes a value 90 at time 1649069660638692509
+Thread: 6 writes a value 77 at time 1649069660638701207
+Thread: 9 writes a value 54 at time 1649069660638721959
+Thread: 0 writes a value 46 at time 1649069660638723404
+Thread: 3 writes a value 35 at time 1649069660638741258
+Thread: 4 writes a value 37 at time 1649069660638756541
+snapshot corresponding to thread 2
+Thread: 7 writes a value 51 at time 1649069660638778951
+ l1 : 67 l2 : 54 l3 : 95 l4 : 90 l5 : 40 l6 : 8 l7 : 7 l8 : 35 l9 : 10 l10 : 7 l11 : 46 l12 : 35 l13 : 35 l14 : 86 l15 : 13 l16 : 59 l17 : 37 l18 : 40 l19 : 56 l20 : 3 which finishes at 1649069660638750170
+Thread: 5 writes a value 3 at time 1649069660638795886
+Thread: 1 writes a value 71 at time 1649069660638807014
+Thread: 10 writes a value 81 at time 1649069660638810509
+Thread: 2 writes a value 81 at time 1649069660638845569
+Thread: 8 writes a value 84 at time 1649069660638854153
+Thread: 0 writes a value 16 at time 1649069660638859098
+Thread: 4 writes a value 38 at time 1649069660638865967
+Thread: 9 writes a value 16 at time 1649069660638871892
+Thread: 6 writes a value 13 at time 1649069660638872928
+Thread: 7 writes a value 36 at time 1649069660638888320
+Thread: 5 writes a value 26 at time 1649069660638903713
+Thread: 11 writes a value 86 at time 1649069660638910334
+Thread: 3 writes a value 61 at time 1649069660638911854
+Thread: 1 writes a value 6 at time 1649069660638929625
+Thread: 10 writes a value 14 at time 1649069660638924268
+Thread: 0 writes a value 18 at time 1649069660638974432
+Thread: 8 writes a value 99 at time 1649069660639018850
+Thread: 6 writes a value 60 at time 1649069660639023786
+Thread: 9 writes a value 41 at time 1649069660639032402
+Thread: 2 writes a value 60 at time 1649069660639038062
+Thread: 11 writes a value 83 at time 1649069660639035137
+Thread: 7 writes a value 91 at time 1649069660639035146
+Thread: 5 writes a value 87 at time 1649069660639048088
+Thread: 1 writes a value 44 at time 1649069660639054689
+snapshot corresponding to thread 3
+Thread: 4 writes a value 57 at time 1649069660639061844
+Thread: 10 writes a value 39 at time 1649069660639065003
+ l1 : 61 l2 : 54 l3 : 14 l4 : 38 l5 : 36 l6 : 8 l7 : 7 l8 : 81 l9 : 10 l10 : 6 l11 : 46 l12 : 35 l13 : 35 l14 : 86 l15 : 26 l16 : 13 l17 : 37 l18 : 40 l19 : 86 l20 : 16 which finishes at 1649069660638958035
+Thread: 3 writes a value 14 at time 1649069660639072385
+Thread: 0 writes a value 45 at time 1649069660639089014
+Thread: 6 writes a value 27 at time 1649069660639122322
+Thread: 8 writes a value 37 at time 1649069660639129563
+Thread: 5 writes a value 39 at time 1649069660639178970
+snapshot corresponding to thread 3
+Thread: 7 writes a value 33 at time 1649069660639202673
+Thread: 10 writes a value 24 at time 1649069660639203478
+ l1 : 61 l2 : 54 l3 : 95 l4 : 38 l5 : 36 l6 : 8 l7 : 7 l8 : 81 l9 : 10 l10 : 84 l11 : 46 l12 : 35 l13 : 35 l14 : 86 l15 : 26 l16 : 13 l17 : 37 l18 : 40 l19 : 86 l20 : 16 which finishes at 1649069660639178491
+Thread: 1 writes a value 48 at time 1649069660639208606
+Thread: 9 writes a value 53 at time 1649069660639207310
+Thread: 0 writes a value 3 at time 1649069660639222049
+Thread: 2 writes a value 39 at time 1649069660639228369
+Thread: 11 writes a value 86 at time 1649069660639231316
+Thread: 6 writes a value 41 at time 1649069660639244778
+Thread: 3 writes a value 99 at time 1649069660639258563
+Thread: 4 writes a value 39 at time 1649069660639268818
+Thread: 7 writes a value 72 at time 1649069660639291126
+Thread: 5 writes a value 3 at time 1649069660639293197
+Thread: 10 writes a value 46 at time 1649069660639333059
+snapshot corresponding to thread 3
+ l1 : 60 l2 : 60 l3 : 14 l4 : 38 l5 : 36 l6 : 99 l7 : 7 l8 : 81 l9 : 83 l10 : 14 l11 : 46 l12 : 39 l13 : 35 l14 : 86 l15 : 87 l16 : 91 l17 : 57 l18 : 18 l19 : 86 l20 : 44 which finishes at 1649069660639326576
+Thread: 8 writes a value 6 at time 1649069660639348638
+Thread: 0 writes a value 97 at time 1649069660639362314
+Thread: 11 writes a value 61 at time 1649069660639367269
+Thread: 4 writes a value 71 at time 1649069660639376075
+Thread: 3 writes a value 1 at time 1649069660639376701
+Thread: 2 writes a value 41 at time 1649069660639378818
+Thread: 9 writes a value 90 at time 1649069660639379380
+Thread: 5 writes a value 19 at time 1649069660639406383
+Thread: 1 writes a value 12 at time 1649069660639410066
+Thread: 6 writes a value 75 at time 1649069660639446171
+Thread: 7 writes a value 70 at time 1649069660639454609
+snapshot corresponding to thread 3
+Thread: 3 writes a value 42 at time 1649069660639483781
+Thread: 8 writes a value 86 at time 1649069660639476910
+Thread: 0 writes a value 92 at time 1649069660639481457
+Thread: 10 writes a value 44 at time 1649069660639483453
+ l1 : 61 l2 : 54 l3 : 95 l4 : 38 l5 : 36 l6 : 8 l7 : 7 l8 : 81 l9 : 10 l10 : 84 l11 : 46 l12 : 35 l13 : 35 l14 : 86 l15 : 26 l16 : 13 l17 : 37 l18 : 40 l19 : 86 l20 : 16 which finishes at 1649069660639461879
+Thread: 11 writes a value 64 at time 1649069660639509083
+Thread: 1 writes a value 84 at time 1649069660639512888
+Thread: 4 writes a value 78 at time 1649069660639511136
+Thread: 9 writes a value 96 at time 1649069660639515770
+Thread: 5 writes a value 49 at time 1649069660639524695
+Thread: 2 writes a value 23 at time 1649069660639561784
+Thread: 0 writes a value 29 at time 1649069660639587003
+Thread: 3 writes a value 1 at time 1649069660639581969
+Thread: 8 writes a value 71 at time 1649069660639602834
+Thread: 6 writes a value 50 at time 1649069660639603464
+Thread: 7 writes a value 70 at time 1649069660639604081
+Thread: 10 writes a value 95 at time 1649069660639652217
+snapshot corresponding to thread 3
+Thread: 9 writes a value 60 at time 1649069660639658810
+ l1 : 3 l2 : 72 l3 : 3 l4 : 38 l5 : 27 l6 : 12 l7 : 39 l8 : 81 l9 : 39 l10 : 75 l11 : 90 l12 : 97 l13 : 35 l14 : 61 l15 : 24 l16 : 91 l17 : 41 l18 : 1 l19 : 48 l20 : 71 which finishes at 1649069660639625449
+Thread: 5 writes a value 6 at time 1649069660639689177
+Thread: 2 writes a value 37 at time 1649069660639687996
+Thread: 4 writes a value 54 at time 1649069660639690679
+Thread: 1 writes a value 23 at time 1649069660639707843
+Thread: 3 writes a value 92 at time 1649069660639709789
+Thread: 11 writes a value 56 at time 1649069660639713829
+Thread: 8 writes a value 55 at time 1649069660639728871
+Thread: 10 writes a value 35 at time 1649069660639764173
+Thread: 0 writes a value 77 at time 1649069660639766490
+Thread: 7 writes a value 8 at time 1649069660639778434
+Thread: 9 writes a value 56 at time 1649069660639778851
+Thread: 5 writes a value 10 at time 1649069660639781685
+Thread: 6 writes a value 9 at time 1649069660639776555
+Thread: 2 writes a value 42 at time 1649069660639793588
